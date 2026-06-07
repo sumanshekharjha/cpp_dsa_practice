@@ -212,3 +212,15 @@ using namespace std;
       // return arr;
       // }
     
+
+//7. leetcode  1480
+    // running sum of 1d array
+//     vector<int> runningSum(vector<int>& nums) {
+//         for(int i=0;i<nums.size();i++){
+//             if(i==0) nums[i]=nums[0];
+//             else
+//             nums[i] += nums[i-1];
+//         }
+//         return nums;
+//     }
+
