@@ -4,9 +4,13 @@ using namespace std;
 int main(){
 
 //1. vector
-vector<vector<int>> v;
-int row = v.size();
-int col = v[0].size();
+// vector is a dynamic array
+// increase your rows
+// variable columns
+
+//vector<vector<int>> v;
+//vector<vector<int>> v1(int m);
+ 
 
 
 
