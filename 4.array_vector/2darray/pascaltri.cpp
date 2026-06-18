@@ -6,6 +6,7 @@ int main(){
     int m,n;
     cout<<"enter the no. of rows: ";
     cin>>m;
+    //leetcode 118 pascal triangle
     vector< vector<int> > v;
       for(int i=1; i<=m;i++) {
       vector<int> a (i);
@@ -26,7 +27,7 @@ int main(){
     }
     cout << endl;
 }
-    
+
     
 
 }
